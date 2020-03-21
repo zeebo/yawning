@@ -1,0 +1,6 @@
+corpus
+crashers
+suppressions
+*.zip
+fuzzer
+*.a
